@@ -1,0 +1,15 @@
+public class boengTest{
+
+   public static void main(String boeng[]){
+     boeng one = new boeng ();
+     boeng two = new boeng ();
+     
+     
+  one.setFlightNum (234);
+    one.getFlightNum ();
+     
+     two.setFlightNum (238888888);
+     two.getFlightNum ();
+
+   }
+}
